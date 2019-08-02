@@ -1,0 +1,4 @@
+* Electronics stuff
+
+This is some stuff for controlling the GPIO pins on the Raspberry Pi (3) for
+electronics stuff.
